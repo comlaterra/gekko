@@ -33,6 +33,7 @@ export default {
 
 .fill {
   flex: 1;
+  padding: 0px 20px;
 }
 
 .text {
@@ -57,7 +58,7 @@ input {
 }
 
 .contain {
-  width: 900px;
+  max-width: 940px;
   margin-left: auto;
   margin-right: auto;
 }
